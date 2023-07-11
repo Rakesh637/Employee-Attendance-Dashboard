@@ -9,7 +9,8 @@ The dashboard displays key metrics and visualizations that allow users to quickl
 
 <img width="839" alt="Screenshot 2023-07-11 at 11 16 04 PM" src="https://github.com/Rakesh637/Employee-Attendance-Dashboard/assets/60855144/06fc6930-af3e-4049-be39-28cb925b08bb">
 
-<img width="839" alt="Screenshot 2023-07-11 at 11 17 35 PM" src="https://github.com/Rakesh637/Employee-Attendance-Dashboard/assets/60855144/1cdc3c2e-18fc-41be-a898-9a80c94a8f39">
+<img width="839" alt="Screenshot 2023-07-11 at 11 20 34 PM" src="https://github.com/Rakesh637/Employee-Attendance-Dashboard/assets/60855144/f5fa46d0-8c54-4ef3-86ef-832f8a17505f">
+
 
 
 
